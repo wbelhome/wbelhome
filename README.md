@@ -17,7 +17,7 @@
 
 ---------
 
-![William Belhome GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![William Belhome GitHub Stats](https://github-readme-stats.vercel.app/api?username=wbelhome&show_icons=true&theme=dracula)
 
 
 
