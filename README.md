@@ -7,7 +7,7 @@
 👽 Olá, me chamo William Belhome!
 💬 Sou suporte de TI, graduado em Análise e desenvolvimento de sistema e estudante de Ciências da Computação. 
 
-📬 ![Acesse meu Linkedin!](https://www.linkedin.com/in/william-belhome-035501233/?originalSubdomain=br)
+📬 [Acesse meu Linkedin!](https://www.linkedin.com/in/william-belhome-035501233/?originalSubdomain=br)
 
 ### Minhas tecnologias:
 
