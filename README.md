@@ -11,10 +11,11 @@
 
 ### Minhas tecnologias:
 
+<p align="center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
-
+</p>
 ---------
 
 ![William Belhome GitHub Stats](https://github-readme-stats.vercel.app/api?username=wbelhome&show_icons=true&theme=dracula)
